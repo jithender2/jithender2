@@ -12,7 +12,7 @@
 
 <p align="left">
 
-<a href="https://www.youtube.com/c/mr.ethical yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr.ethical yt" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/mr.ethical](https://youtube.com/channel/UC9mBBFxkVWsTtLyuHUjvdbg) yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr.ethical yt" height="30" width="40" /></a>
 
 </p>
 
