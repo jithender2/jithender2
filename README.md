@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithender2&show_icons=true&theme=radical)
 
-<h1 align="center">Hi 👋, I'm Jithender (MR.Ethical) YT</h1>
+<h1 align="center">Hi 👋, I'm MR.Ethical YT</h1>
 
 <p align="left">
 
