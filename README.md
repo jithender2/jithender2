@@ -4,7 +4,7 @@
 
 <p align="left">
 
-<a href="https://jithenderkothapelli.blogspot.com/" target="blank">![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
+<a href="https://ethicalhackyt.blogspot.com/" target="blank">![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
 <a href="https://youtube.com/channel/UC9mBBFxkVWsTtLyuHUjvdbg" target="blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 <a href="https://t.me/MrEthical_Yt" target="blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="https://www.instagram.com/mr_ethical_yt_/" target="blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
